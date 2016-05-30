@@ -21,6 +21,10 @@ body{
 	padding: 0px 10px 30px 10px;
 }
 
+#main_content{
+	background-color: #fff;
+}
+
 #main_content .columns{
 	padding: 30px;
 }
