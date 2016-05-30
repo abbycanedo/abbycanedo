@@ -5,6 +5,11 @@ body{
 	font-family: 'Lato', 'Arial', sans-serif;
 }
 
+.header{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
 #header{
 	text-align: center;
 	padding: 20px;
