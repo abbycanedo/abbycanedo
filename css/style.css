@@ -5,7 +5,6 @@ body{
 	font-family: 'Lato', 'Arial', sans-serif;
 }
 
-
 #header{
 	text-align: center;
 	padding: 20px;
@@ -22,8 +21,8 @@ body{
 	padding: 0px 10px 30px 10px;
 }
 
-#main_content{
-	padding-top: 20px;
+#main_content .columns{
+	padding: 30px;
 }
 
 .sec_head{
