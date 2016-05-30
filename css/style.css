@@ -17,6 +17,27 @@ body{
 	font-weight: bolder;
 }
 
+#contact a:link{
+	font-style: none;
+	font-family: 'Lato';
+	color: #000
+}
+#contact a:visited{
+	font-style: none;
+	font-family: 'Lato';
+	color: #000
+}
+#contact a:hover{
+	font-style: none;
+	font-family: 'Lato';
+	color: #000
+}
+#contact a:active{
+	font-style: none;
+	font-family: 'Lato';
+	color: #000
+}
+
 #contact .fa{
 	padding: 0px 10px 30px 10px;
 }
